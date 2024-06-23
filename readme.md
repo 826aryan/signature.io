@@ -14,13 +14,7 @@ This repository contains the HTML, CSS, and JavaScript code for a signature draw
 
 You can use this webpage to draw, save, and retrieve signatures. Customize the drawing options as per your needs.
 
-## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/signature-drawing-webpage.git
-    ```
-2. Open the `index.html` file in your browser to view the webpage.
 
 ## How to Use
 
@@ -36,6 +30,4 @@ You can use this webpage to draw, save, and retrieve signatures. Customize the d
 
 Feel free to fork the repository, make enhancements, and submit pull requests. Any contributions that improve the functionality, design, or usability of this template are welcome.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
